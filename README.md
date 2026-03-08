@@ -44,8 +44,8 @@ php flarum cache:clear
 
 | Component | Status |
 | --- | --- |
-| [Core](https://github.com/flarum/flarum-core) | [![Translation status](https://weblate.rob006.net/widgets/flarum/br/core/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/core/br/) |
-| Validation | [![Translation status](https://weblate.rob006.net/widgets/flarum/br/validation/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/validation/br/) |
+| [Core](https://github.com/flarum/flarum-core) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/br/core/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/core/br/) |
+| Validation | [![Translation status](https://weblate.rob006.net/widgets/flarum2/br/validation/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/validation/br/) |
 
 
 ## Translation status for official extensions
