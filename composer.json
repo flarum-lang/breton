@@ -1,27 +1,24 @@
 {
 	"name": "flarum-lang/breton",
+	"description": "Breton Language Pack for Flarum",
 	"type": "flarum-extension",
-	"description": "Breton language pack for Flarum.",
-	"homepage": "https://github.com/flarum-lang/breton",
 	"keywords": [
-		"locale",
-		"flarum",
-		"flarum-locale",
-		"br-locale",
-		"breton-locale",
-		"breton"
+		"flarum-locale"
 	],
+	"homepage": "https://github.com/flarum-lang/breton",
 	"license": "MIT",
 	"support": {
 		"issues": "https://github.com/flarum-lang/breton/issues",
+		"forum": "https://discuss.flarum.org/d/40175",
 		"source": "https://github.com/flarum-lang/breton"
 	},
 	"require": {
 		"flarum/core": "^1.6"
 	},
-	"minimum-stability": "dev",
-	"prefer-stable": true,
 	"extra": {
+		"branch-alias": {
+			"dev-master": "1.x-dev"
+		},
 		"flarum-extension": {
 			"title": "Breton",
 			"category": "language",
@@ -33,13 +30,7 @@
 		},
 		"flarum-locale": {
 			"code": "br",
-			"title": "Breton"
-		},
-		"extiverse": {
-			"discuss": ""
-		},
-		"branch-alias": {
-			"dev-master": "1.x-dev"
+			"title": "Brezhoneg"
 		}
 	}
 }
